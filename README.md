@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Demo
 
-https://fervent-lalande-6d50a2.netlify.app/
+https://cryptodashboardnfts.netlify.app/
 
 ![](./public/image.png)
 
